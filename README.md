@@ -114,7 +114,7 @@ Hi 👋 I'm **Aditya S** — a curious developer from **Coimbatore, India**, stu
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Adi-0202&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adi-0202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-contribution-stats.vercel.app/api?username=Adi-0202)
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api?username=Adi-0202&show_icons=true&theme=tokyonight&hide_border=true)
 </div>
 
 ---
